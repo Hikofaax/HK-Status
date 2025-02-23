@@ -1,4 +1,4 @@
-# Marcium RP Discord Bot
+# HK-Status BOT
 
 Un bot Discord élégant et puissant conçu pour afficher en temps réel le statut de votre serveur FiveM.  
 Grâce à un embed dynamique, il vous permet de suivre le nombre de joueurs connectés et l'état du serveur (en ligne, hors ligne ou en maintenance).  
@@ -17,7 +17,7 @@ Ce projet intègre également un système de licence pour afficher un ASCII art 
 
 ## Aperçu
 
-Le **Marcium RP Discord Bot** est conçu pour offrir une interface visuelle moderne et interactive sur Discord.  
+Le **HK-status BOT** est conçu pour offrir une interface visuelle moderne et interactive sur Discord.  
 Il interroge régulièrement l'API de votre serveur FiveM et met à jour un embed dans un canal spécifique pour refléter le statut actuel du serveur.  
 Si le bot redémarre, il reprend là où il s'était arrêté grâce à la sauvegarde de l'ID du message embed dans un fichier JSON.
 
