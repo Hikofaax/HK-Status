@@ -58,7 +58,7 @@ Si le bot redémarre, il reprend là où il s'était arrêté grâce à la sauve
 1. **Cloner le dépôt :**
 
    ```bash
-   git clone https://github.com/votreutilisateur/marcium-rp-discord-bot.git
+   git clone [https://github.com/votreutilisateur/marcium-rp-discord-bot](https://github.com/Hikofaax/HK-Status).git
    cd marcium-rp-discord-bot
    npm i 
    node .
