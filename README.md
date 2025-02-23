@@ -46,7 +46,7 @@ Si le bot redémarre, il reprend là où il s'était arrêté grâce à la sauve
 
 ## Pré-requis
 
-- **Node.js** version 14 ou supérieure.
+- **Node.js** version 21 ou supérieure.
 - **npm** pour la gestion des dépendances.
 - Un **bot Discord** configuré avec un token, client ID, guild ID et channel ID.
 - Un serveur FiveM accessible via un endpoint (ex. : `https://localhost:30120/players.json`).
