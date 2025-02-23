@@ -1,0 +1,16 @@
+{
+  "name": "hk-status",
+  "version": "1.0.0",
+  "description": "Un bot Discord dynamique pour afficher en temps réel le statut de votre serveur FiveM avec un embed élégant et professionnel.",
+  "license": "ISC",
+  "author": "Hikofaa",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "/"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "discord.js": "^14.18.0"
+  }
+}

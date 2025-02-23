@@ -1,0 +1,7 @@
+{
+  "token": "", // https://discord.com/developers/applications  // token du bot
+  "clientId": "", // https://discord.com/developers/applications  // id du bot
+  "guildId": "", // id du serveur discord
+  "channelId": "", // id du salon discord
+  "authorizedRoleId": "" // id du role autorisé à utiliser les commandes du bot
+}
