@@ -21,6 +21,10 @@ Le **HK-status BOT** est conçu pour offrir une interface visuelle moderne et in
 Il interroge régulièrement l'API de votre serveur FiveM et met à jour un embed dans un canal spécifique pour refléter le statut actuel du serveur.  
 Si le bot redémarre, il reprend là où il s'était arrêté grâce à la sauvegarde de l'ID du message embed dans un fichier JSON.
 
+<img src="https://zupimages.net/up/25/09/5f5l.png">
+<img src="https://zupimages.net/up/25/09/tpkf.png">
+<img src="https://zupimages.net/up/25/09/x58w.png">
+
 ---
 
 ## Fonctionnalités
